@@ -1,2 +1,1 @@
-# duyhoang-git-sample
-Git sample
+# Test conflict code
